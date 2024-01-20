@@ -1,4 +1,4 @@
-"category";"region";"total_sales_r";"total_profit_r"
+"category","region","total_sales_r","ntotal_profit_r"
 Office Supplies;West;219775.0;51768.0
 Furniture;West;252226.0;11327.0
 Technology;West;251576.0;44060.0
