@@ -1,4 +1,4 @@
-**GitHub Repository: SQL**-octave-Superstore
+**GitHub Repository: SQL**-Superstore
 
 **Description:** This repository contains a SQL query analysis of a material assets store. It highlights the revenue and sales figures for various regions, categories, and top-selling goods in a variety of ways.
 
